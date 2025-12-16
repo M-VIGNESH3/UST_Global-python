@@ -1,0 +1,42 @@
+Assignment-1:
+
+Submission date : 17th Dec 2025:
+
+
+Assignment must contain your name  ,email address and 
+
+screen shot of all outputs.
+
+Submit in word document
+
+
+
+
+1️⃣ Number Classification (if + function)
+
+Write a shell script that uses a function to check whether a number is positive, negative, or zero using if.
+
+2️⃣ Factorial of a Number (while + function)
+
+Write a shell script to calculate the factorial of a number using a while loop inside a function.
+
+3️⃣ Sum of N Numbers (for + function)
+
+Write a shell script to calculate the sum of numbers from 1 to N using a for loop inside a function.
+
+4️⃣ Prime Number Check (if + for + function)
+
+Write a shell script that uses a function to check whether a given number is prime using if and for.
+
+5️⃣ Reverse a Number (while + if)
+
+Write a shell script to reverse a number using a while loop and if conditions where required.
+
+6️⃣ File Existence & Permission Check (if + function)
+
+Write a shell script that uses a function to check if a file exists and whether it has read, write, and execute permissions.
+
+7️⃣ Menu-Driven Calculator (while + case + function)
+
+Write a shell script that shows a menu in a while loop and performs add, subtract, multiply, divide using functions.
+
