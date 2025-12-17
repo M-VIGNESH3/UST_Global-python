@@ -1,0 +1,6 @@
+Enter name: a
+Enter marks: 25
+Enter name: b
+Enter marks: 83
+Enter name: c  
+Enter marks: 50
