@@ -1,2 +1,2 @@
-import mod
-print(mod.ctof(100))
+l=[i for i in range(20) if i%2==0]
+print(l)
