@@ -4,15 +4,18 @@
 w = input("Enter the word to search: ")
 
 f = open("UST_Global-Assignments/UST_Assignment-4/txtfile-5.txt", "r")
+fc=f.readlines()
 
 ln = 1
 found = False
 
-for line in f:
+for line in fc:
     if w in line:
         print("Word found at line:",ln)
         found = True
     ln += 1
+
+
 
 f.close()
 
