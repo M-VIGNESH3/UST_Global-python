@@ -1,1 +1,0 @@
-ch+=sum([len(j) for j in i.split(" ")])
