@@ -1,4 +1,4 @@
-f=open('data_append.txt', 'a') 
+f=open('file operations in python\data_append.txt', 'a') 
 for i in range(2):
     name=input("Enter name  ")
     mark=input("Enter marks ")

@@ -1,4 +1,4 @@
-f=open("write.txt","w")
+f=open("file operations in python\write.txt","w")
 for i in range(3):
     name=input("Enter name: ")
     marks=int(input("Enter marks: "))
